@@ -4,9 +4,10 @@
   "section": "channel",
   "page": 1,
   "totalItems": 0,
+  "hasNext": false,
   "version": "eef46741adfc3a9f",
-  "generatedAt": "2026-07-21T16:18:20.733Z",
-  "lastUpdate": "2026-07-21T16:18:20.733Z",
+  "generatedAt": "2026-07-29T14:00:34.821Z",
+  "lastUpdate": "2026-07-29T14:00:34.821Z",
   "meta": {
     "compression": "none",
     "kind": "children",
