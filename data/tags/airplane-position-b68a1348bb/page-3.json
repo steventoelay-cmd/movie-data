@@ -4,10 +4,10 @@
   "section": "tag",
   "page": 3,
   "totalItems": 15,
-  "hasNext": false,
+  "hasNext": true,
   "version": "cdd9c46d11e055d4",
-  "generatedAt": "2026-08-01T00:04:31.586Z",
-  "lastUpdate": "2026-08-01T00:04:31.586Z",
+  "generatedAt": "2026-08-01T12:04:29.845Z",
+  "lastUpdate": "2026-08-01T12:04:29.845Z",
   "meta": {
     "compression": "none",
     "kind": "children",

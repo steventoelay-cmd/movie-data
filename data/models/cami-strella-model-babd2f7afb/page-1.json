@@ -4,10 +4,10 @@
   "section": "model",
   "page": 1,
   "totalItems": 8,
-  "hasNext": false,
+  "hasNext": true,
   "version": "f19c3b5d8550f850",
-  "generatedAt": "2026-07-31T00:00:25.478Z",
-  "lastUpdate": "2026-07-31T00:00:25.478Z",
+  "generatedAt": "2026-08-01T12:00:24.081Z",
+  "lastUpdate": "2026-08-01T12:00:24.081Z",
   "meta": {
     "compression": "none",
     "kind": "children",
