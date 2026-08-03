@@ -1,15 +1,12 @@
 {
   "schemaVersion": 1,
   "generatorVersion": "1.0.0",
-  "lastUpdate": "2026-08-03T12:04:34.355Z",
-  "generatedAt": "2026-08-03T12:00:00.019Z",
+  "lastUpdate": "2026-08-03T14:39:56.535Z",
+  "generatedAt": "2026-08-03T14:37:33.564Z",
   "sections": [
-    "home",
-    "model",
-    "channel",
-    "tag"
+    "channel"
   ],
-  "filesChanged": 205,
+  "filesChanged": 93,
   "version": null,
   "commitSha": null
 }
