@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
   "generatorVersion": "1.0.0",
-  "lastUpdate": "2026-11-12T00:00:08.823Z",
-  "generatedAt": "2026-11-12T00:00:00.010Z",
+  "lastUpdate": "2026-11-13T00:03:06.480Z",
+  "generatedAt": "2026-11-13T00:00:03.818Z",
   "sections": [
-    "myanmar"
+    "home",
+    "myanmar",
+    "model",
+    "channel",
+    "tag"
   ],
-  "filesChanged": 220,
+  "filesChanged": 203,
   "version": null,
   "commitSha": null
 }
